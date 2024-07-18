@@ -7,7 +7,7 @@ const Header = () => {
     <div className="gpt4__header section_padding" id="home">
       <div className="gpt4__header-content">
         <h1 className="gradient__text">
-          Let’s Build Something amazing with GPT-4 OpenAI
+          Let’s Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
           Yet bed any for travelling assistance indulgence unpleasing. Not
