@@ -1,6 +1,8 @@
-![image](https://github.com/user-attachments/assets/48bcac3d-42ef-445d-a849-db0e8fb2396f)# Responsive Webpage with ReactJS
-![image](https://github.com/user-attachments/assets/d656f917-346b-4d8b-ae6a-5b2357ac87c6)
+![image](https://github.com/user-attachments/assets/cd9b931b-a57e-4694-a814-270892f9007b)
+![image](https://github.com/user-attachments/assets/cd985b74-2b2a-4c4c-b58a-81e1fc1d71aa)
+![image](https://github.com/user-attachments/assets/ea80670d-9070-48c1-bcb0-3b258dc7fd84)
 
+# Responsive Webpage with ReactJS
 
 This project is a fully responsive webpage built with React.js that provides information about ChatGPT-3. The design ensures compatibility across various devices and screen sizes.
 
