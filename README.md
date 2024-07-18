@@ -1,5 +1,4 @@
 ![image](https://github.com/user-attachments/assets/cd985b74-2b2a-4c4c-b58a-81e1fc1d71aa)
-![image](https://github.com/user-attachments/assets/cd9b931b-a57e-4694-a814-270892f9007b)
 ![image](https://github.com/user-attachments/assets/ea80670d-9070-48c1-bcb0-3b258dc7fd84)
 
 # Responsive Webpage with ReactJS
