@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.06cd90e4.css",
-    "main.js": "/static/js/main.8d38c8ba.js",
-    "static/media/Header Illustration.png": "/static/media/Header Illustration.c0064558772f0c3d91b5.png",
-    "static/media/Feature Image.png": "/static/media/Feature Image.d60d0a1de0971dc00bd3.png",
-    "static/media/Rectangle 22-4.png": "/static/media/Rectangle 22-4.4dd90b64f4797f740bdd.png",
-    "static/media/Rectangle 22-1.png": "/static/media/Rectangle 22-1.c6c07172d9a995e86aa5.png",
-    "static/media/Rectangle 22-2.png": "/static/media/Rectangle 22-2.5a71114cb171376e54a8.png",
-    "static/media/Rectangle 22-3.png": "/static/media/Rectangle 22-3.081545cec5fa0f6d1163.png",
-    "static/media/Rectangle 22.png": "/static/media/Rectangle 22.8f6de3056609da77b523.png",
-    "static/media/Group 81.png": "/static/media/Group 81.bad16829c7341d6783d8.png",
-    "static/media/dropbox.png": "/static/media/dropbox.57b3fe2fbbb84fa75ea5.png",
-    "static/media/atlassian.png": "/static/media/atlassian.a2397815b0c1110835b8.png",
-    "static/media/GPT-3.svg": "/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
-    "index.html": "/index.html",
-    "main.06cd90e4.css.map": "/static/css/main.06cd90e4.css.map",
-    "main.8d38c8ba.js.map": "/static/js/main.8d38c8ba.js.map"
+    "main.css": "/Modern_UI-UX_Webpage_React-JS/static/css/main.06cd90e4.css",
+    "main.js": "/Modern_UI-UX_Webpage_React-JS/static/js/main.6588b606.js",
+    "static/media/Header Illustration.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Header Illustration.c0064558772f0c3d91b5.png",
+    "static/media/Feature Image.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Feature Image.d60d0a1de0971dc00bd3.png",
+    "static/media/Rectangle 22-4.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Rectangle 22-4.4dd90b64f4797f740bdd.png",
+    "static/media/Rectangle 22-1.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Rectangle 22-1.c6c07172d9a995e86aa5.png",
+    "static/media/Rectangle 22-2.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Rectangle 22-2.5a71114cb171376e54a8.png",
+    "static/media/Rectangle 22-3.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Rectangle 22-3.081545cec5fa0f6d1163.png",
+    "static/media/Rectangle 22.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Rectangle 22.8f6de3056609da77b523.png",
+    "static/media/Group 81.png": "/Modern_UI-UX_Webpage_React-JS/static/media/Group 81.bad16829c7341d6783d8.png",
+    "static/media/dropbox.png": "/Modern_UI-UX_Webpage_React-JS/static/media/dropbox.57b3fe2fbbb84fa75ea5.png",
+    "static/media/atlassian.png": "/Modern_UI-UX_Webpage_React-JS/static/media/atlassian.a2397815b0c1110835b8.png",
+    "static/media/GPT-3.svg": "/Modern_UI-UX_Webpage_React-JS/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/Modern_UI-UX_Webpage_React-JS/index.html",
+    "main.06cd90e4.css.map": "/Modern_UI-UX_Webpage_React-JS/static/css/main.06cd90e4.css.map",
+    "main.6588b606.js.map": "/Modern_UI-UX_Webpage_React-JS/static/js/main.6588b606.js.map"
   },
   "entrypoints": [
     "static/css/main.06cd90e4.css",
-    "static/js/main.8d38c8ba.js"
+    "static/js/main.6588b606.js"
   ]
 }
