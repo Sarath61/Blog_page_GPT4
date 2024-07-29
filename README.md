@@ -13,7 +13,6 @@ This project is a fully responsive webpage built with React.js that provides inf
 - [Case Studies]
 - [Library]
 
-
 ## Demo
 
 You can view a live demo of the webpage [here]().
@@ -30,10 +29,9 @@ You can view a live demo of the webpage [here]().
 - CSS3 (Flexbox, Grid)
 - [react-icons](https://github.com/react-icons/react-icons)
 
-
 ## Installation
 
 1. Clone the repository:
    ```bash
       git clone https://github.com/Sarath61/Modern_UI-UX_Webpage_React-JS.git
-
+   ```
