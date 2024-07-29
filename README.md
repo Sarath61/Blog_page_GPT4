@@ -15,7 +15,7 @@ This project is a fully responsive webpage built with React.js that provides inf
 
 ## Demo
 
-You can view a live demo of the webpage [here](https://modern-ui-ux-webpage-react-kopre8jne-sarath61s-projects.vercel.app/).
+You can view a live demo of the webpage [here]
 
 ## Features
 
